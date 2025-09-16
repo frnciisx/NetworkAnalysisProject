@@ -15,7 +15,7 @@ Applied my skills from training projects to complete a hands-on network analysis
 3. Followed HTTP streams to understand traffic flow and verify website legitimacy.
 
 **Screenshots:**  
-![Ubuntu VM and Wireshark capture](Screenshots)
+[Ubuntu VM and Wireshark capture](Screenshots)
 
 **Key Learnings:**  
 - Understanding of TCP/IP, DNS, HTTP/HTTPS protocols  
