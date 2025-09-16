@@ -1,0 +1,34 @@
+Overview:
+
+Applied my skills from training projects to complete a hands-on network analysis project using Ubuntu, Wireshark, and tcpdump. This project strengthened my understanding of Linux environments, network protocols, and packet-level traffic analysis.
+
+Steps & Process:
+
+Set up an Ubuntu virtual machine and became familiar with the Linux terminal and system navigation.
+Installed and configured Wireshark and tcpdump to capture network traffic in a controlled environment.
+Captured approximately 30,000 packets, analyzing traffic to and from the VM’s IP address.
+Monitored traffic for commonly used websites including:
+
+testudo.umd.edu
+youtube.com
+maps.umd.edu
+linkedin.com
+
+Applied Wireshark display filters to isolate specific traffic types, including HTTP and DNS.
+Investigated unsecured connections by filtering for http traffic, identifying unexpected sources such as http://connectivity-check.ubuntu.com.
+Followed HTTP streams to analyze communication between client and server and verified website legitimacy.
+Explored TCP/IP communication, including TCP port analysis (tcp.port==80) and encryption considerations for HTTPS traffic.
+Documented observations and insights, improving understanding of network behavior, security implications, and packet-level troubleshooting.
+
+
+Key Learnings & Skills Gained:
+Practical experience in capturing and analyzing large volumes of network packets.
+
+
+Hands-on understanding of network protocols (TCP, UDP, HTTP, DNS) and packet structure.
+
+
+Skills in network security analysis, including detecting unsecured connections and understanding encrypted traffic limitations.
+
+
+Developed the ability to use Wireshark and tcpdump to monitor and troubleshoot network activity in a Linux environment.
