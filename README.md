@@ -1,7 +1,7 @@
 # Network Analysis Project – Wireshark & tcpdump (Ubuntu VM)
 
 ## Overview
-Applied my skills from previous training projects on [TryHackMe](https://tryhackme.com/) and [LetsDefend](https://letsdefend.io/) to complete a hands-on network analysis project using Ubuntu, Wireshark, and tcpdump.  
+Applied my skills from previous training projects on [TryHackMe](https://tryhackme.com/) and [LetsDefend](https://letsdefend.io/) to complete a hands-on network analysis project using Ubuntu, Wireshark.  
 This project strengthened my understanding of Linux environments, network protocols, and packet-level traffic analysis.
 
 ---
@@ -9,7 +9,6 @@ This project strengthened my understanding of Linux environments, network protoc
 ## 🛠 Tools & Environment
 - Ubuntu VM  
 - Wireshark  
-- tcpdump  
 - Linux Terminal  
 
 ---
